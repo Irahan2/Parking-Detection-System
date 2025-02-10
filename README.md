@@ -87,9 +87,4 @@ YOLO (You Only Look Once) is a state-of-the-art object detection model known for
 
 ---
 
-## **Acknowledgments**
-This project utilizes the following resources:
-- **YOLOv8** by Ultralytics for object detection.
-- **OpenCV** for image processing.
 
----
